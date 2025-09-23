@@ -1,0 +1,7 @@
+capture	<a>This is a link</a>
+capture	<a href='https://regexone.com'>Link</a>
+capture	<div class='test_style'>Test</div>
+capture	<div>Hello <span>world</span></div>
+<h1>My name is Claude</h1> jjhb bggy,hjh <p>I am a developer</p> ty
+My credit card number is 1234 5678 9012 3456 and check out this one too 1234-5678-9012-3456
+Check out my website at https://www.example.com or http://example.org for more info. https://www.example.comLinks to an external site. https://subdomain.example.org/pageLinks to an external site. user@example.com firstname.lastname@company.co.uk #example #ThisIsAHashtag http://example.org https httpsspss https://
