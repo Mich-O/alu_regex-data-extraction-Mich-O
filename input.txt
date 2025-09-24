@@ -19,7 +19,7 @@ For American Express, we had 3400 0000 0000 009, and one sandbox dataset include
 
 Our support hours are quite flexible: Monday through Friday, we’re open from 09:00 to 17:30.  
 For emergencies, we have a hotline from 2:30 PM until 11:59 PM. On weekends, we still check messages at 00:15  
-and some staff do early calls around 7:45 am. We also do scheduled upgrades at 14:30 to minimize disruptions.  
+and some staff do early calls around 7:45 am. We also do scheduled upgrades at 14:30 to minimize disruptions.  and 25:59 also 15:00 pm
 
 Here’s a small HTML snippet from our old landing page:  
 <p>Welcome to NewApp, the home of innovation!</p>  
