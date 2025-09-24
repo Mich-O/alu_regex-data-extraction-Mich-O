@@ -1,0 +1,66 @@
+(6) Phone Numbers extracted from file:
+  1. (555) 123-4567
+  2. 555-987-6543
+  3. 202-555-0199
+  4. 123.456.7890
+  5. (321) 654-0987
+  6. 777-888-9999
+
+(15) HTML tags extracted from file:
+  1. <p>
+  2. </p>
+  3. <div class="container">
+  4. </div>
+  5. <img src="image1.jpg" alt="Team working">
+  6. <a href="https://link.com">
+  7. </a>
+  8. <h1>
+  9. </h1>
+  10. <span class="highlight">
+  11. </span>
+  12. <div>
+  13. <span>
+  14. </span>
+  15. </div>
+
+(7) Credit card numbers extracted from file:
+  1. 1234 5678 9012 3456
+  2. 9876-5432-1098-7654
+  3. 4111 1111 1111 1111
+  4. 5500-0000-0000-0004
+  5. 6011-0009-9013-9424
+  6. 1234 5678 9012 3456
+  7. 1234-5678-9012-3456
+
+(12) URLs extracted from file:
+  1. https://www.newapp.com
+  2. http://help.newapp.org/faq.
+  3. https://partner.example.net/resources.
+  4. http://sub.example.co.uk/path/page.
+  5. https://testsite.io/index.html,
+  6. https://shop.example.com/products/item?id=123.
+  7. https://link.com">Visit
+  8. https://www.example.com
+  9. http://example.org
+  10. https://www.example.comLinks
+  11. https://subdomain.example.org/pageLinks
+  12. http://example.org
+
+(8) Hashtags extracted from file:
+  1. #NewApp
+  2. #TechForAll
+  3. #ThisIsAHashtag
+  4. #RegexRocks
+  5. #CodingLife
+  6. #DataExtraction
+  7. #example
+  8. #ThisIsAHashtag
+
+(7) Times extracted from file:
+  1. 09:00
+  2. 17:30
+  3. 2:30 PM
+  4. 11:59 PM
+  5. 00:15
+  6. 7:45 am
+  7. 14:30
