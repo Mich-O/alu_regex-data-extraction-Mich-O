@@ -27,9 +27,11 @@ After the extraction, the displayed output is saved in the file output.txt
 ## Example demonstration
 Input(text from input.txt):
 
-Hello, contact us using these numbers: 07123456678 or (123) 456-7890 preferrably between 8.30 am and 17:00 on weekdays.
+    Hello, contact us using these numbers: 07123456678 or (123) 456-7890 preferrably between 8.30 am and 17:00 on weekdays.
 
-Output: (2) Phone numbers extracted from file: 
+Output: 
+
+        (2) Phone numbers extracted from file: 
          1. 0712345678
          2. (123) 456-7890
 
@@ -37,7 +39,7 @@ Output: (2) Phone numbers extracted from file:
          1. 8:30 am
          2. 17:00
 
-Extracted data saved to output.txt!
+        Extracted data saved to output.txt!
 
 ## Requirements
 - Python 3.8+  
