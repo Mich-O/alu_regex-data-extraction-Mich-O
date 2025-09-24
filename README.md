@@ -51,7 +51,7 @@ Output:
 
 2. Navigate into the repository
 
-   cd alu_regex-data-extraction-Mich-O-
+       cd alu_regex-data-extraction-Mich-O-
 
 3. **Specify input**
    
@@ -59,8 +59,10 @@ Output:
    
    A user can edit the data to test the working of the python script. To do this:
    
-      *nano input.txt, delete data in input.txt, populate input.txt with preferred data, ctrl+O, press ENTER, ctrl+X*
-
-4. Run the script:
+       nano input.txt
    
-   python main.py
+   delete data in input.txt > populate input.txt with preferred data > ctrl+O > press ENTER > ctrl+X
+
+5. Run the script:
+   
+       python main.py
